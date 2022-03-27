@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b95020af-1c5b-b0ce-0b42-4c1b9d3659a5
 resourcetype: Document
 title: Human Barriers in Renoir and Coppola
 uid: faa605b8-4e7c-c547-09ba-9f1e27e5880c

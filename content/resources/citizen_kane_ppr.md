@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b95020af-1c5b-b0ce-0b42-4c1b9d3659a5
 resourcetype: Document
 title: Exploring Time in Citizen Kane
 uid: 007a41bd-fe6a-4c91-076d-5efb259a7de7

@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b95020af-1c5b-b0ce-0b42-4c1b9d3659a5
 resourcetype: Image
 title: Filming for a burlesque on the burning of Rome
 uid: 39c35f5f-f83c-002d-70bc-79ba97d05ad6
