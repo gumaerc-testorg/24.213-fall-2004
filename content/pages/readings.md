@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the required texts for the course
+  and links to information about each film viewed in the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
