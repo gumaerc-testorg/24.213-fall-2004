@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, films, and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8a961b19-3713-a1b9-d227-a369e217fb79
 ---

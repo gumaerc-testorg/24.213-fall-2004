@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the course assignments and examples
+  of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b95020af-1c5b-b0ce-0b42-4c1b9d3659a5
 ---
@@ -9,6 +14,6 @@ No quizzes or exams, but students are required to attend every class, (whether o
 Sample Student Work
 -------------------
 
-Citizen Kane Paper (Courtesy of Alvin Lin. Used with permission.) ([PDF]({{< baseurl >}}/resources/citizen_kane_ppr))
+Citizen Kane Paper (Courtesy of Alvin Lin. Used with permission.) ({{% resource_link 007a41bd-fe6a-4c91-076d-5efb259a7de7 "PDF" %}})
 
-Renoir and Coppola Paper (Courtesy of Alvin Lin. Used with permission.) ([PDF]({{< baseurl >}}/resources/renoir_cop_ppr))
+Renoir and Coppola Paper (Courtesy of Alvin Lin. Used with permission.) ({{% resource_link faa605b8-4e7c-c547-09ba-9f1e27e5880c "PDF" %}})
