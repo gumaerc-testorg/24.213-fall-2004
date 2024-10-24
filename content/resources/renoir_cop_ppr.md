@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: an essay on human barriers in Renoir and Coppola.'
-file: /courses/24-213-philosophy-of-film-fall-2004/faa605b84e7cc54709ba9f1e27e5880c_renoir_cop_ppr.pdf
+file: /ol-ocw-studio-app/courses/24-213-philosophy-of-film-fall-2004/faa605b84e7cc54709ba9f1e27e5880c_renoir_cop_ppr.pdf
 file_size: 130947
 file_type: application/pdf
 learning_resource_types:
