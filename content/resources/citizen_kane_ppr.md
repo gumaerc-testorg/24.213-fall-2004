@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Example of student work: an essay on Orson Welles'' Citizen Kane.'
-file: /ol-ocw-studio-app/courses/24-213-philosophy-of-film-fall-2004/007a41bdfe6a4c91076d5efb259a7de7_citizen_kane_ppr.pdf
+file: /courses/24-213-philosophy-of-film-fall-2004/007a41bdfe6a4c91076d5efb259a7de7_citizen_kane_ppr.pdf
 file_size: 32249
 file_type: application/pdf
 learning_resource_types:
